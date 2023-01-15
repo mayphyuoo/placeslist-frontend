@@ -1,6 +1,6 @@
 # placeslist-frontend
 
-This app is deployed via firebase: https://placeslist-15dd3.web.app/
+This app is deployed via firebase: https://mern-placelist.firebaseapp.com/
 
 build with React ⚛️
 
